@@ -86,7 +86,6 @@ public class Profiling {
                 System.out.println("Email: " + email[j]);
                 System.out.println("Password: " + password[j]);
                 System.out.println("Age: " + age[j]);
-                System.out.println("Civil Status: "+ civilStatus[j]);
                 System.out.println("\n");
             }
             
