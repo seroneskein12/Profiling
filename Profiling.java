@@ -11,7 +11,6 @@ public class Profiling {
         String[] names = new String[100];
         String[] email = new String[100];
         String[] password = new String[100];
-        String[] civilStatus={"Single", "Married", "Divorced", "Widow"}; 
         int[] age = new int[100];
         int deductor=100;
         int ctr=100;
